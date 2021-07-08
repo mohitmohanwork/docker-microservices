@@ -1,0 +1,23 @@
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/Blaash.Gaming.Infrastructure.Database/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.deps.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/Blaash.Gaming.Infrastructure.Database/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/Blaash.Gaming.Infrastructure.Database/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/Blaash.Gaming.Infrastructure.Database/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/Blaash.Gaming.Infrastructure.Database/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.csproj.CopyComplete
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.deps.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.csproj.CopyComplete
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/obj/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.pdb

@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.test/Blaash.Gaming.Service.Game.test.csproj": {}
+  },
+  "projects": {
+    "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.test/Blaash.Gaming.Service.Game.test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.test/Blaash.Gaming.Service.Game.test.csproj",
+        "projectName": "Blaash.Gaming.Service.Game.test",
+        "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.test/Blaash.Gaming.Service.Game.test.csproj",
+        "packagesPath": "/Users/mohitmohan/.nuget/packages/",
+        "outputPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mohitmohan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash_Gaming_Services/LocalNuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "ZNxt.Net.Core.DB.Mongo": {
+              "target": "Package",
+              "version": "[1.1.22, )"
+            },
+            "ZNxt.Net.Core.DB.MySql": {
+              "target": "Package",
+              "version": "[1.1.46, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

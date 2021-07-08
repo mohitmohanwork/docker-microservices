@@ -1,0 +1,537 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/Blaash.Gaming.Service.Game.Web.csproj": {}
+  },
+  "projects": {
+    "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Common/Blaash.Gaming.Infrastructre.Common.csproj": {
+      "version": "1.0.3",
+      "restore": {
+        "projectUniqueName": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Common/Blaash.Gaming.Infrastructre.Common.csproj",
+        "projectName": "Blaash.Gaming.Infrastructre.Common",
+        "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Common/Blaash.Gaming.Infrastructre.Common.csproj",
+        "packagesPath": "/Users/mohitmohan/.nuget/packages/",
+        "outputPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Common/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mohitmohan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/ZNxt.Net.Core.csproj": {
+                "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/ZNxt.Net.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Web/Blaash.Gaming.Infrastructre.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Web/Blaash.Gaming.Infrastructre.Web.csproj",
+        "projectName": "Blaash.Gaming.Infrastructre.Web",
+        "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Web/Blaash.Gaming.Infrastructre.Web.csproj",
+        "packagesPath": "/Users/mohitmohan/.nuget/packages/",
+        "outputPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Web/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mohitmohan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/Blaash.Gaming.Infrastructure.Database.csproj": {
+                "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/Blaash.Gaming.Infrastructure.Database.csproj"
+              },
+              "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/ZNxt.Net.Core.Web.csproj": {
+                "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/ZNxt.Net.Core.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/Blaash.Gaming.Infrastructure.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/Blaash.Gaming.Infrastructure.Database.csproj",
+        "projectName": "Blaash.Gaming.Infrastructure.Database",
+        "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/Blaash.Gaming.Infrastructure.Database.csproj",
+        "packagesPath": "/Users/mohitmohan/.nuget/packages/",
+        "outputPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mohitmohan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/ZNxt.Net.Core.csproj": {
+                "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/ZNxt.Net.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/ZNxt.Net.Core.Web.csproj": {
+      "version": "1.1.50",
+      "restore": {
+        "projectUniqueName": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/ZNxt.Net.Core.Web.csproj",
+        "projectName": "ZNxt.Net.Core.Web",
+        "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/ZNxt.Net.Core.Web.csproj",
+        "packagesPath": "/Users/mohitmohan/.nuget/packages/",
+        "outputPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mohitmohan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/Blaash.Gaming.Infrastructure.Database.csproj": {
+                "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructure.Database/Blaash.Gaming.Infrastructure.Database.csproj"
+              },
+              "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/ZNxt.Net.Core.csproj": {
+                "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/ZNxt.Net.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/ZNxt.Net.Core.csproj": {
+      "version": "1.1.47",
+      "restore": {
+        "projectUniqueName": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/ZNxt.Net.Core.csproj",
+        "projectName": "ZNxt.Net.Core",
+        "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/ZNxt.Net.Core.csproj",
+        "packagesPath": "/Users/mohitmohan/.nuget/packages/",
+        "outputPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mohitmohan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/Blaash.Gaming.Service.Game.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/Blaash.Gaming.Service.Game.Web.csproj",
+        "projectName": "Blaash.Gaming.Service.Game.Web",
+        "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/Blaash.Gaming.Service.Game.Web.csproj",
+        "packagesPath": "/Users/mohitmohan/.nuget/packages/",
+        "outputPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mohitmohan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Web/Blaash.Gaming.Infrastructre.Web.csproj": {
+                "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Web/Blaash.Gaming.Infrastructre.Web.csproj"
+              },
+              "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/Blaash.Gaming.Service.GamePlay.csproj": {
+                "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/Blaash.Gaming.Service.GamePlay.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Amazon.Lambda.AspNetCoreServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/Blaash.Gaming.Service.GamePlay.csproj": {
+      "version": "1.0.0-Beta00035",
+      "restore": {
+        "projectUniqueName": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/Blaash.Gaming.Service.GamePlay.csproj",
+        "projectName": "Blaash.Gaming.Service.GamePlay",
+        "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/Blaash.Gaming.Service.GamePlay.csproj",
+        "packagesPath": "/Users/mohitmohan/.nuget/packages/",
+        "outputPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mohitmohan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Common/Blaash.Gaming.Infrastructre.Common.csproj": {
+                "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/Blaash.Gaming.Infrastructre.Common/Blaash.Gaming.Infrastructre.Common.csproj"
+              },
+              "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/ZNxt.Net.Core.csproj": {
+                "projectPath": "/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/ZNxt.Net.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.5.1.37, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.5.4.1, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

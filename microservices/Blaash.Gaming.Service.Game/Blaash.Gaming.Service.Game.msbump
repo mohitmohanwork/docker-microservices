@@ -1,0 +1,13 @@
+{
+  Configurations: {
+    "Debug": {
+      BumpLabel: "Beta",
+      LabelDigits: 5
+    },
+    
+    "Release": {
+     BumpPatch: true,
+	 ResetLabel: "Beta"
+    }
+  }
+}

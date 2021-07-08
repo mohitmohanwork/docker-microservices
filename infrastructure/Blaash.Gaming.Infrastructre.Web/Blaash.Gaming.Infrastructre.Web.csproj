@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="System.Security.Permissions" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Blaash.Gaming.Infrastructure.Database\Blaash.Gaming.Infrastructure.Database.csproj" />
+    <ProjectReference Include="..\ZNxt.Net.Core.Web\ZNxt.Net.Core.Web.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ZNxt.Net.Core.Web</id>
+    <version>1.1.50</version>
+    <authors>ZNxt.Net.Core.Web</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Blaash.Gaming.Infrastructure.Database" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="ZNxt.Net.Core" version="1.1.47" exclude="Build,Analyzers" />
+        <dependency id="IdentityServer4" version="4.1.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="3.1.14" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="106.6.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netcoreapp3.1/wwwroot/appinstall/img/loader.gif" buildAction="Content" />
+      <files include="any/netcoreapp3.1/wwwroot/appinstall/index.html" buildAction="Content" />
+      <files include="any/netcoreapp3.1/wwwroot/appinstall/js/appinstall.js" buildAction="Content" />
+      <files include="any/netcoreapp3.1/znxtsettings.json.config" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.Web.dll" target="lib/netcoreapp3.1/ZNxt.Net.Core.Web.dll" />
+    <file src="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/wwwroot/appinstall/img/loader.gif" target="content/wwwroot/appinstall/img/loader.gif" />
+    <file src="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/wwwroot/appinstall/img/loader.gif" target="contentFiles/any/netcoreapp3.1/wwwroot/appinstall/img/loader.gif" />
+    <file src="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/wwwroot/appinstall/index.html" target="content/wwwroot/appinstall/index.html" />
+    <file src="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/wwwroot/appinstall/index.html" target="contentFiles/any/netcoreapp3.1/wwwroot/appinstall/index.html" />
+    <file src="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/wwwroot/appinstall/js/appinstall.js" target="content/wwwroot/appinstall/js/appinstall.js" />
+    <file src="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/wwwroot/appinstall/js/appinstall.js" target="contentFiles/any/netcoreapp3.1/wwwroot/appinstall/js/appinstall.js" />
+    <file src="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/znxtsettings.json.config" target="content/znxtsettings.json.config" />
+    <file src="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core.Web/znxtsettings.json.config" target="contentFiles/any/netcoreapp3.1/znxtsettings.json.config" />
+  </files>
+</package>

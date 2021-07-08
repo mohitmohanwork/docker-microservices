@@ -1,0 +1,16 @@
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core/bin/Debug/netstandard2.0/ZNxt.Net.Core.deps.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core/bin/Debug/netstandard2.0/ZNxt.Net.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core/bin/Debug/netstandard2.0/ZNxt.Net.Core.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core/obj/Debug/netstandard2.0/ZNxt.Net.Core.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core/obj/Debug/netstandard2.0/ZNxt.Net.Core.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core/obj/Debug/netstandard2.0/ZNxt.Net.Core.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core/obj/Debug/netstandard2.0/ZNxt.Net.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core/obj/Debug/netstandard2.0/ZNxt.Net.Core.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/bin/Debug/netstandard2.0/ZNxt.Net.Core.deps.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/bin/Debug/netstandard2.0/ZNxt.Net.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/bin/Debug/netstandard2.0/ZNxt.Net.Core.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/obj/Debug/netstandard2.0/ZNxt.Net.Core.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/obj/Debug/netstandard2.0/ZNxt.Net.Core.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/obj/Debug/netstandard2.0/ZNxt.Net.Core.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/obj/Debug/netstandard2.0/ZNxt.Net.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/infrastructure/ZNxt.Net.Core/obj/Debug/netstandard2.0/ZNxt.Net.Core.pdb

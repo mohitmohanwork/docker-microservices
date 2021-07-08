@@ -1,0 +1,4 @@
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.test/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.test.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.test/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.test.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.test/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.test.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.test/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,82 @@
+﻿<Properties StartupConfiguration="{84557140-BB72-4F92-B85A-8D65F1ACC021}|Blaash.Gaming.Service.Game.Web.Test">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../infrastructure/ZNxt.Net.Core.Web/Handlers/HttpProxyHandler.cs">
+    <Files>
+      <File FileName="Blaash.Gaming.Service.Game/Services/Api/Game/GameController.cs" Line="125" Column="1" />
+      <File FileName="Blaash.Gaming.Service.Game.Web/znxtsettings.json.config" Line="8" Column="20" />
+      <File FileName="../infrastructure/ZNxt.Net.Core.Web/Handlers/ApiHandler.cs" Line="84" Column="1" />
+      <File FileName="../infrastructure/ZNxt.Net.Core.Web/Handlers/HttpProxyHandler.cs" Line="37" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Blaash.Gaming.Microservices" expanded="True">
+            <Node name="GamePlay" expanded="True">
+              <Node name="Blaash.Gaming.Service.Game.Web" expanded="True">
+                <Node name="Dependencies" expanded="True" />
+              </Node>
+              <Node name="Blaash.Gaming.Service.GamePlay" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="ProjectDependencies" expanded="True" />
+                </Node>
+                <Node name="DBService" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="Api" expanded="True">
+                    <Node name="Game" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Infrastructre" expanded="True">
+              <Node name="Blaash.Gaming.Infrastructre.Web" expanded="True">
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="ZNxt.Net.Core.Web" expanded="True">
+                <Node name="Handlers" expanded="True">
+                  <Node name="HttpProxyHandler.cs" selected="True" />
+                </Node>
+                <Node name="Services" expanded="True">
+                  <Node name="Api" expanded="True">
+                    <Node name="SSO" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Blaash.Gaming.Service.Game/Blaash.Gaming.Service.GamePlay.csproj</String>
+    <String>Blaash.Gaming.Service.GamePlay.Web/Blaash.Gaming.Service.GamePlay.Web.csproj</String>
+    <String>Blaash.Gaming.Service.GamePlay/Blaash.Gaming.Service.GamePlay.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GamePlay.Blaash.Gaming.Service.Game.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core/Services/ApiBaseService.cs" line="23" column="1" />
+      <Breakpoint enabled="false" file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core.Web/Handlers/ApiHandler.cs" line="59" column="1" />
+      <Breakpoint enabled="false" file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core.Web/Handlers/ApiHandler.cs" line="72" column="1" />
+      <Breakpoint enabled="false" file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core.Web/Services/Routing.cs" line="107" column="1" />
+      <Breakpoint enabled="false" file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core.Web/Handlers/MVCServiceExtention.cs" line="95" column="1" />
+      <Breakpoint enabled="false" file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core.Web/Services/Routing.cs" line="162" column="1" />
+      <Breakpoint enabled="false" file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core.Web/Handlers/HttpProxyHandler.cs" line="29" column="1" />
+      <Breakpoint enabled="false" file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/infrastructre/Blaash.Gaming.Infrastructre.Web/Services/BlaashWebAppStartup.cs" line="30" column="1" />
+      <Breakpoint enabled="false" file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/base/ZNxt.Net.Core/ZNxt.Net.Core.Web/Handlers/MVCServiceExtention.cs" line="249" column="1" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.EventService/Services/Api/Event/CommandProcessors/CreateOrder.cs" relfile="Blaash.Gaming.Service.EventService/Services/Api/Event/CommandProcessors/CreateOrder.cs" line="35" column="1" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.EventService/Services/Helpers/DataExtractor.cs" relfile="Blaash.Gaming.Service.EventService/Services/Helpers/DataExtractor.cs" line="98" column="1" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.EventService/Services/Helpers/DataExtractor.cs" relfile="Blaash.Gaming.Service.EventService/Services/Helpers/DataExtractor.cs" line="66" column="1" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.EventService/Services/Helpers/DataExtractor.cs" relfile="Blaash.Gaming.Service.EventService/Services/Helpers/DataExtractor.cs" line="27" column="1" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.EventService/Services/Api/Event/CommandProcessors/CreateOrder.cs" relfile="Blaash.Gaming.Service.EventService/Services/Api/Event/CommandProcessors/CreateOrder.cs" line="59" column="1" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.EventService/Services/Api/Event/CommandProcessors/CreateOrder.cs" relfile="Blaash.Gaming.Service.EventService/Services/Api/Event/CommandProcessors/CreateOrder.cs" line="54" column="1" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.EventService/Services/Api/Event/Controllers/EventController_NEO.cs" relfile="Blaash.Gaming.Service.EventService/Services/Api/Event/Controllers/EventController_NEO.cs" line="77" column="1" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.EventService/Services/Api/Event/Controllers/EventController.cs" relfile="Blaash.Gaming.Service.EventService/Services/Api/Event/Controllers/EventController.cs" line="61" column="3" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.EventService/Services/EventProcessor/CustomerProcessor.cs" relfile="Blaash.Gaming.Service.EventService/Services/EventProcessor/CustomerProcessor.cs" line="19" column="1" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.EventService/Services/DBService/EventsDBService.cs" relfile="Blaash.Gaming.Service.EventService/Services/DBService/EventsDBService.cs" line="36" column="1" />
+      <Breakpoint file="/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/Services/Api/Game/GameController.cs" relfile="Blaash.Gaming.Service.Game/Services/Api/Game/GameController.cs" line="119" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

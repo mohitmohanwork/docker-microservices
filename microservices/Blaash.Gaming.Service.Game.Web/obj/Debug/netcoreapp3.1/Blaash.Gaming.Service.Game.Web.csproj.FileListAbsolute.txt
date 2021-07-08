@@ -1,0 +1,213 @@
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/appinstall/img/loader.gif
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/appinstall/index.html
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/appinstall/js/appinstall.js
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/css/scrolling-nav.css
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/css/znxt.css
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/js/scrolling-nav.js
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/vendor/bootstrap/css/bootstrap.min.css
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/vendor/jquery-easing/jquery.easing.min.js
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/vendor/jquery/jquery.min.js
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/index.html
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/znxtsettings.json.config
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxtIdentitySigning.pfx
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.deps.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.runtimeconfig.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.runtimeconfig.dev.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/AWSSDK.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/AWSSDK.S3.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Dapper.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Dapper.Contrib.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/DnsClient.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/IdentityModel.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/IdentityServer4.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/IdentityServer4.Storage.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/K4os.Compression.LZ4.Streams.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/K4os.Hash.xxHash.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/MongoDB.LibMongocrypt.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/MySql.Data.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Ubiety.Dns.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Zstandard.Net.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Npgsql.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/SharpCompress.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Renci.SshNet.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/SshNet.Security.Cryptography.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/native/libzstd.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy32.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy64.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/linux/native/libmongocrypt.so
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/osx/native/libmongocrypt.dylib
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/native/mongocrypt.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructre.Common.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructre.Web.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.GamePlay.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.DB.Mongo.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.DB.MySql.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.Web.ContentHandler.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.Web.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructre.Web.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructre.Common.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.Web.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.GamePlay.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.DB.Mongo.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.DB.MySql.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.Web.ContentHandler.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.MvcApplicationPartsAssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/staticwebassets/Blaash.Gaming.Service.Game.Web.StaticWebAssets.Manifest.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/staticwebassets/Blaash.Gaming.Service.Game.Web.StaticWebAssets.xml
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/scopedcss/bundle/Blaash.Gaming.Service.Game.Web.styles.css
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.RazorTargetAssemblyInfo.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.csproj.CopyComplete
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.genruntimeconfig.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/appinstall/img/loader.gif
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/appinstall/index.html
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/appinstall/js/appinstall.js
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/css/scrolling-nav.css
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/css/znxt.css
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/js/scrolling-nav.js
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/vendor/bootstrap/css/bootstrap.min.css
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/vendor/bootstrap/js/bootstrap.bundle.min.js
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/vendor/jquery-easing/jquery.easing.min.js
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/vendor/jquery/jquery.min.js
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/wwwroot/index.html
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/znxtsettings.json.config
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxtIdentitySigning.pfx
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.deps.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.runtimeconfig.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.runtimeconfig.dev.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Amazon.Lambda.APIGatewayEvents.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Amazon.Lambda.AspNetCoreServer.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Amazon.Lambda.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Amazon.Lambda.Logging.AspNetCore.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/AWSSDK.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/AWSSDK.S3.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Dapper.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Dapper.Contrib.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/DnsClient.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/IdentityModel.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/IdentityServer4.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/IdentityServer4.Storage.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/MongoDB.Libmongocrypt.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Npgsql.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/RestSharp.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/SharpCompress.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/native/libzstd.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy32.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/native/snappy64.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/linux/native/libmongocrypt.so
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/osx/native/libmongocrypt.dylib
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/native/mongocrypt.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructre.Common.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructre.Web.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.GamePlay.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.Web.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Service.GamePlay.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructre.Web.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructre.Common.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/Blaash.Gaming.Infrastructure.Database.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/bin/Debug/netcoreapp3.1/ZNxt.Net.Core.Web.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.MvcApplicationPartsAssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/staticwebassets/Blaash.Gaming.Service.Game.Web.StaticWebAssets.Manifest.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/staticwebassets/Blaash.Gaming.Service.Game.Web.StaticWebAssets.xml
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/scopedcss/bundle/Blaash.Gaming.Service.Game.Web.styles.css
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.RazorTargetAssemblyInfo.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.csproj.CopyComplete
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game.Web/obj/Debug/netcoreapp3.1/Blaash.Gaming.Service.Game.Web.genruntimeconfig.cache

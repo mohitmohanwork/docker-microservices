@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.3</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Security.Permissions" Version="5.0.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="5.0.0" />
+
+    <!--<PackageReference Include="MSBump" Version="2.3.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>-->
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    </ItemGroup>
+    <ItemGroup>
+        <Folder Include="Models\Base\" />
+        <Folder Include="Exceptions\" />
+        <Folder Include="Serializer\" />
+        <Folder Include="TimeZone\" />
+        <Folder Include="DatabaseProvider\Mongo\" />
+    </ItemGroup>
+    <ItemGroup>
+      <Compile Remove="DatabaseProvider\Mongo\MongoDBKeyValueService.cs" />
+      <Compile Remove="DatabaseProvider\Mongo\MongoDBService.cs" />
+      <Compile Remove="DatabaseProvider\Mongo\MongoDBServiceConfig.cs" />
+      <Compile Remove="DatabaseProvider\Mongo\MongoQueryBuilder.cs" />
+      <Compile Remove="DatabaseProvider\PostgresSQLService.cs" />
+    </ItemGroup>
+    <ItemGroup>
+      <None Remove="DatabaseProvider\.DS_Store" />
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\ZNxt.Net.Core\ZNxt.Net.Core.csproj" />
+    </ItemGroup>
+</Project>

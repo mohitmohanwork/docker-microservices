@@ -1,0 +1,28 @@
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.deps.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/Blaash.Gaming.Infrastructre.Common.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/ZNxt.Net.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/Blaash.Gaming.Infrastructre.Common.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/ZNxt.Net.Core.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.csproj.CopyComplete
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/MVP_Server/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.deps.json
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/Blaash.Gaming.Infrastructre.Common.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/ZNxt.Net.Core.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/ZNxt.Net.Core.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/bin/Debug/netstandard2.0/Blaash.Gaming.Infrastructre.Common.pdb
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.csprojAssemblyReference.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.AssemblyInfoInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.AssemblyInfo.cs
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.csproj.CoreCompileInputs.cache
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.csproj.CopyComplete
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.dll
+/Users/mohitmohan/WorkSpace/Blaash/Source/Blaash Gaming/Docker POC/microservices/Blaash.Gaming.Service.Game/obj/Debug/netstandard2.0/Blaash.Gaming.Service.GamePlay.pdb

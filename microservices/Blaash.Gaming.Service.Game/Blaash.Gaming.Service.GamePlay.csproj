@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0-Beta00035</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Services\Api\Modules\**" />
+    <EmbeddedResource Remove="Services\Api\Modules\**" />
+    <None Remove="Services\Api\Modules\**" />
+    <Compile Remove="Services\Api\Game\Models\BonusRewardRequest.cs" />
+    <Compile Remove="Services\Api\Game\Models\GameLevelFinishRequest.cs" />
+    <Compile Remove="Services\Api\Game\Models\GameLevelFinishResponse.cs" />
+    <Compile Remove="Services\Api\Game\Models\GameLaunchResponse.cs" />
+    <Compile Remove="Services\Api\Game\Models\BonusRewardResponse.cs" />
+    <Compile Remove="Services\Api\Game\Models\RewardType.cs" />
+    <Compile Remove="Services\Api\Game\Models\GameExitResponse.cs" />
+    <Compile Remove="Services\Api\Game\Models\WinnerAwardedRequest.cs" />
+    <Compile Remove="Services\Api\Game\Models\GameLaunchRequest.cs" />
+    <Compile Remove="Services\Api\Game\Models\RewardItem.cs" />
+    <Compile Remove="Services\Api\Game\Models\SummeryDateTime.cs" />
+    <Compile Remove="Services\Api\Game\Models\GameOverRequest.cs" />
+    <Compile Remove="DBService\GamePlayDBService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.12.0" />
+    <PackageReference Include="AWSSDK.Core" Version="3.5.1.37" />
+    <PackageReference Include="AWSSDK.S3" Version="3.5.4.1" />
+    <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ClientScripts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\infrastructure\ZNxt.Net.Core\ZNxt.Net.Core.csproj" />
+    <ProjectReference Include="..\..\infrastructure\Blaash.Gaming.Infrastructre.Common\Blaash.Gaming.Infrastructre.Common.csproj" />
+  </ItemGroup>
+</Project>
